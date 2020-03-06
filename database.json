@@ -7,6 +7,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/PingguSoft/greycat.git:MediumKat.xml": [
+      "https://github.com/PingguSoft/greycat.git",
+      "MediumKat.xml"
+    ],
     "https://github.com/PingguSoft/greycat.git:launch.groovy": [
       "https://github.com/PingguSoft/greycat.git",
       "launch.groovy"
@@ -17,7 +21,7 @@
     "firstVersion": "1.4.5",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 18.0,
+    "fontsize": 16,
     "skinBranch": "1.4.5",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
